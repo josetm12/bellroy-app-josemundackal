@@ -1,3 +1,12 @@
+
+Created as part of https://job-boards.greenhouse.io/bellroy/jobs/6156011?gh_src=024c22b51us
+
+Created By: Jose Thankachan Mundackal | josetm94mec@gmail.com
+
+Tech Stack used: React (with NextJS), shadcn/ui, lucide-react and "https://www.flaticon.com/free-icons/robot" for icons.
+
+In the below section, I have kept the default documentation from the nextJS bootstrap and added a screenshot for the app.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -19,6 +28,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+Below is a screenshot of the app
+
+![image](https://github.com/user-attachments/assets/5571ccef-3eab-476d-a1f2-593da6757c07)
+
 
 ## Learn More
 
