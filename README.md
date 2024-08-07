@@ -4,6 +4,7 @@ Created as part of https://job-boards.greenhouse.io/bellroy/jobs/6156011?gh_src=
 Created By: Jose Thankachan Mundackal | josetm94mec@gmail.com
 
 Tech Stack used: React (with NextJS), shadcn/ui, lucide-react and "https://www.flaticon.com/free-icons/robot" for icons.
+Used an orange robot because orange was the color that popped out to me when I checked out https://bellroy.com/
 
 In the below section, I have kept the default documentation from the nextJS bootstrap and added a screenshot for the app.
 
