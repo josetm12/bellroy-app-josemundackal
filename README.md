@@ -4,6 +4,7 @@ Created as part of https://job-boards.greenhouse.io/bellroy/jobs/6156011?gh_src=
 Created By: Jose Thankachan Mundackal | josetm94mec@gmail.com
 
 Tech Stack used: React (with NextJS), shadcn/ui, lucide-react and "https://www.flaticon.com/free-icons/robot" for icons.
+Used an orange robot because orange was the color that popped out to me when I checked out https://bellroy.com/
 
 In the below section, I have kept the default documentation from the nextJS bootstrap and added a screenshot for the app.
 
@@ -29,9 +30,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Below is a screenshot of the app
+Below is a play around of the app
 
-![image](https://github.com/user-attachments/assets/5571ccef-3eab-476d-a1f2-593da6757c07)
+![Animation](https://github.com/user-attachments/assets/ae5b0f9d-3c7a-40af-aadf-c061f14d5d59)
+
 
 
 ## Learn More
